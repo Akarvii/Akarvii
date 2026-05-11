@@ -85,7 +85,7 @@
 <br/>
 
 <!-- PROJECTS -->
-<h2 align="center">Portafolio</h2>
+<h2 align="center">Portafolio de Proyectos</h2>
 
 <div align="center">
 
@@ -131,16 +131,24 @@
 
 <br/>
 
+<!-- ABOUT ME PERSONAL -->
+<h2 align="center">Sobre Mí</h2>
+
+<p align="center">
+Un chico simple de 20 años, mide 195cm, y es voluntario de Cruz Roja Juventud. Me llama la atención el mundo del Hacking, scripting, y el diseño. Mi enfoque profesional es que la digitalización de las empresas es mi objetivo principal.
+</p>
+
+<br/>
 
 <!-- CONTACT -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> &nbsp;Contacto
+<h2 align="center">Contacto</h2>
 
 <div align="center">
   <a href="https://github.com/Akarvii">
     <img src="https://img.shields.io/badge/GitHub-Akarvii-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:yologames5dwtf@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contactar-0d1117?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contactame-0d1117?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
@@ -149,7 +157,7 @@
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2d333b&height=120&section=footer"/>
 </div>
 
 <div align="center">
