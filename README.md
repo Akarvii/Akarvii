@@ -5,6 +5,15 @@
 
 <br/>
 
+<!-- ABOUT ME PERSONAL -->
+<h2 align="center">Sobre Mí</h2>
+
+<p align="center">
+Mucho gusto, soy Daniel, un chico simple, al que le gusta escuchar musica para concentrarse, el mundo del hacking, scripts y automatizaciones, me llama la atencion el hacking etico y de videojuegos, actualmente diseñando diferentes proyectos para la Cruz Roja (Ademas de ser voluntario de la CR), tambien otros proyectos en Open Services S.A.S y Coinmaderas S.A.S, mi paleta de colores favorita son los grises pastel. Lider de Desarrollo de Software para XVSoftware, echa un vistazo en... [PAGINA EN DESARROLLO]
+</p>
+
+<br/>
+
 <!-- ABOUT ME -->
 <table>
 <tr>
@@ -88,55 +97,42 @@
 <h2 align="center">Portafolio de Proyectos</h2>
 
 <div align="center">
-
 <table>
 <tr>
 <td width="50%">
-
 <h3 align="center">Open Services S.A.S</h3>
 <div align="center">
   <a href="https://openservices.com.co/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_VISITAR-0d1117?style=for-the-badge"/>
   </a>
   <p>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   </p>
   <p><strong>Tienda de tecnología, productos e implementos para oficinas.</strong> Soluciones integrales en equipos de cómputo, suministros y servicios técnicos empresariales.</p>
 </div>
-
 </td>
 <td width="50%">
-
 <h3 align="center">Coinmaderas S.A.S</h3>
 <div align="center">
   <a href="https://coinmaderas.com" target="_blank">
     <img src="https://img.shields.io/badge/🌐_VISITAR-0d1117?style=for-the-badge"/>
   </a>
   <p>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   </p>
   <p><strong>Carpintería especializada</strong> en fabricación e instalación de productos de alta calidad en madera, melamina y materiales para constructoras en Colombia.</p>
 </div>
-
 </td>
 </tr>
 </table>
-
-
 </div>
-
-<br/>
-
-<!-- ABOUT ME PERSONAL -->
-<h2 align="center">Sobre Mí</h2>
-
-<p align="center">
-Un chico simple de 20 años, mide 195cm, y es voluntario de Cruz Roja Juventud. Me llama la atención el mundo del Hacking, scripting, y el diseño. Mi enfoque profesional es que la digitalización de las empresas es mi objetivo principal.
-</p>
 
 <br/>
 
@@ -147,7 +143,7 @@ Un chico simple de 20 años, mide 195cm, y es voluntario de Cruz Roja Juventud. 
   <a href="https://github.com/Akarvii">
     <img src="https://img.shields.io/badge/GitHub-Akarvii-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:yologames5dwtf@gmail.com">
+  <a href="mailto:danielarevalobussines@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contactame-0d1117?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
