@@ -126,6 +126,7 @@ Mucho gusto, soy Daniel, un chico simple, al que le gusta escuchar musica para c
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   </p>
   <p><strong>Carpintería especializada</strong> en fabricación e instalación de productos de alta calidad en madera, melamina y materiales para constructoras en Colombia.</p>
 </div>
