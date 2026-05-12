@@ -24,10 +24,10 @@
 <td>Técnico en Asistencia Administrativa - SENA (2022)</td>
 </tr>
 <tr>
-<td>Tecnología en Desarrollo de Software - FESC (2026)</td>
+<td>Aptitud Ocupacional en Formacion Academica de Conocimiento Ingles Nivel C1 - IPT (2025)</td>
 </tr>
 <tr>
-<td>Diploma Inglés</td>
+<td>Tecnología en Desarrollo de Software - FESC (2026)</td>
 </tr>
 <tr>
 <td rowspan="3"><b>Idiomas</b></td>
