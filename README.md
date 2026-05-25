@@ -5,15 +5,6 @@
 
 <br/>
 
-<!-- ABOUT ME PERSONAL -->
-<h2 align="center">Sobre Mí</h2>
-
-<p align="center">
-Mucho gusto, soy Daniel, un chico simple, al que le gusta escuchar musica para concentrarse, el mundo del hacking, scripts y automatizaciones, me llama la atencion el hacking etico y de videojuegos, actualmente diseñando diferentes proyectos para la Cruz Roja (Ademas de ser voluntario de la CR), tambien otros proyectos en Open Services S.A.S y Coinmaderas S.A.S, mi paleta de colores favorita son los grises pastel. Lider de Desarrollo de Software para XVSoftware, echa un vistazo en... [PAGINA EN DESARROLLO]
-</p>
-
-<br/>
-
 <!-- ABOUT ME -->
 <table>
 <tr>
