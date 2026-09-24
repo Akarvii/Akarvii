@@ -10,12 +10,6 @@
   Ingeniero de Software en formación con nivel de <b>inglés C1 (avanzado)</b> y más de <b>15 certificaciones técnicas</b>, especializado en llevar productos digitales desde el diseño técnico y arquitectónico (MVC, capas, Spec-Driven Development) hasta entornos de producción con disponibilidad 24/7. Como desarrollador <b>Full Stack con enfoque en DevOps y Analítica de Datos</b>, construyo aplicaciones escalables con React, Vue, Tailwind CSS, Java (Spring Boot, Hibernate), Python (Flask, Django), PHP y Express sobre bases de datos MySQL y PostgreSQL, implementando despliegues automatizados mediante Docker, pipelines CI/CD y servidores Linux (Ubuntu). He liderado y desarrollado soluciones reales de principio a fin, incluyendo un e-commerce integral en producción para <i>Open Services Sistemas Electrónicos S.A.S.</i>, agentes de atención automatizada con IA (API de DeepSeek) para <i>Coinmaderas S.A.S.</i> y herramientas de cálculo matemático asistidas por modelos de lenguaje en equipos multidisciplinarios. Asimismo, transformo datos en decisiones estratégicas mediante Python (Pandas, NumPy), Power BI, Power Platform y Excel avanzado, integrando una sólida visión de negocio y buenas prácticas de marketing digital, SEO, soporte IT y ciberseguridad.
 </p>
 
-<div align="center">
-  <a href="https://akarsolutions.dev" target="_blank">
-    <img src="./assets/portfolio-badge.svg" alt="Portafolio Web &amp; Proyectos - akarsolutions.dev" width="360"/>
-  </a>
-</div>
-
 <br/>
 
 <!-- TECH SKILLS -->
@@ -62,16 +56,20 @@
 <h2 align="center">Contacto</h2>
 
 <div align="center">
+  <a href="https://akarsolutions.dev" target="_blank">
+    <img src="./assets/portfolio-badge.svg" alt="Portafolio Web &amp; Proyectos - akarsolutions.dev" width="340"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:danielarevalobussines@gmail.com">
+    <img src="./assets/email-badge.svg" alt="Email - danielarevalobussines@gmail.com" width="340"/>
+  </a>
+  <br/><br/>
   <a href="https://github.com/Akarvii" target="_blank">
     <img src="./assets/github-badge.svg" alt="GitHub - Akarvii" width="340"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/daniel-alejandro-ar%C3%A9valo-g%C3%BCech%C3%A1-115352304/" target="_blank">
     <img src="./assets/linkedin-badge.svg" alt="LinkedIn - Daniel Arévalo" width="340"/>
-  </a>
-  <br/><br/>
-  <a href="mailto:danielarevalobussines@gmail.com">
-    <img src="./assets/email-badge.svg" alt="Email - danielarevalobussines@gmail.com" width="340"/>
   </a>
 </div>
 

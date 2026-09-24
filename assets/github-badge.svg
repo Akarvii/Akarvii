@@ -6,28 +6,23 @@
       <stop offset="100%" stop-color="#0d1117"/>
     </linearGradient>
     
-    <!-- Border Gradient -->
+    <!-- White / Silver Border Gradient -->
     <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#388bfd" stop-opacity="0.85"/>
-      <stop offset="50%" stop-color="#58a6ff" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#1f6feb" stop-opacity="0.85"/>
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#8b949e" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#e6edf3" stop-opacity="0.8"/>
     </linearGradient>
 
     <!-- Icon Container Gradient -->
     <linearGradient id="iconBgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#1f6feb" stop-opacity="0.25"/>
-      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0.08"/>
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#8b949e" stop-opacity="0.05"/>
     </linearGradient>
 
     <linearGradient id="iconGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#ffffff"/>
-      <stop offset="100%" stop-color="#c9d1d9"/>
+      <stop offset="100%" stop-color="#f0f6fc"/>
     </linearGradient>
-
-    <filter id="neonGlow" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="2" result="blur"/>
-      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
-    </filter>
   </defs>
 
   <!-- Main Button Container -->
@@ -36,7 +31,7 @@
   <!-- Icon Section -->
   <g transform="translate(14, 9)">
     <!-- Icon Container Pill/Square -->
-    <rect width="34" height="34" rx="8" fill="url(#iconBgGrad)" stroke="#388bfd" stroke-width="1" stroke-opacity="0.4"/>
+    <rect width="34" height="34" rx="8" fill="url(#iconBgGrad)" stroke="#8b949e" stroke-width="1" stroke-opacity="0.5"/>
     
     <!-- GitHub Octocat Vector -->
     <g transform="translate(8, 8) scale(0.75)">
@@ -45,15 +40,15 @@
   </g>
 
   <!-- Typography -->
-  <text x="60" y="24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#f0f6fc" letter-spacing="0.3">
+  <text x="60" y="24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#ffffff" letter-spacing="0.3">
     GitHub
   </text>
-  <text x="60" y="40" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#58a6ff" letter-spacing="0.2">
+  <text x="60" y="40" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#e6edf3" letter-spacing="0.2">
     github.com/Akarvii
   </text>
 
   <!-- Action Arrow Indicator -->
-  <g transform="translate(325, 19)" stroke="#58a6ff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <g transform="translate(325, 19)" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none">
     <line x1="2" y1="12" x2="12" y2="2"/>
     <polyline points="4 2 12 2 12 10"/>
   </g>
